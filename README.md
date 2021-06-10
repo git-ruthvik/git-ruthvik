@@ -75,7 +75,7 @@
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/ruthvik-rao/
+[linkedin]: https://www.linkedin.com/in/ruthvik-rao/ "Connect via LinkedIn"
 [gmail]: mailto:ruthvik.b.r@gmail.com "Lets connect through email"
 [github]: https://github.com/git-ruthvik
 [twitter]: https://twitter.com/RuthvikRao1
