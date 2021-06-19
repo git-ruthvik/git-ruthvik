@@ -15,9 +15,10 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm an aspiring 🔭️ Computer Vision Resercher currently learning 🌱 **DeepLearning for CV**.
-- I like working in 🐧️**Linux as well as Windows** Environment.
-- I'm a knowledge seeker, Creative Thinker & I love to learn new 💻 **Tech**.
+- I'm an aspiring 🔭️ Computer Vision Resercher working on Computer vision, robotics with Deep Learning.
+- 🌱 I'm currently learning tons of cool stuff in all the above areas (and beyond).
+- I'm a knowledge seeker, Creative Thinker & I love to learn new **Tech** 💻.
+- ⚡ Fun fact: You can create such a summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here!
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
