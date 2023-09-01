@@ -10,7 +10,7 @@
  
 </p>
 </br>
-<img align="right" alt="Camera" width="400" src="https://raw.githubusercontent.com/git-ruthvik/git-ruthvik/master/assets/camgif.gif">
+<img align="right" alt="Camera" width="400" src="https://raw.githubusercontent.com/git-ruthvik/git-ruthvik/master/assets/newgif.gif">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
